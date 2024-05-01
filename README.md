@@ -52,7 +52,7 @@ This is a simple keylogger application.
     ```
 7. Now you can see all recordings of your keyboard:
     ```
-    ![Screenshot from 2024-05-01 17-57-37](https://github.com/Nipik/keylogger/assets/129624834/bf7dbc31-6f2e-46ce-9df0-f1f2a265c925)
+    ![Screenshot from 2024-05-01 17-57-37](https://github.com/Nipik/keylogger/assets/129624834/c7cfb259-ddfe-45f7-a4d8-bc4d0266e7f0)
 
     ```    
 
