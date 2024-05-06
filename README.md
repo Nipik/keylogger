@@ -51,10 +51,10 @@ This is a simple keylogger application.
     python3 keylogger.py
     ```
 7. Now you can see all recordings of your keyboard in new file call keylogger.txt:
-    ```
+
 ![327191228-91b07671-2320-4f8b-9336-777cb1ba69da](https://github.com/Nipik/keylogger/assets/129624834/01351040-1728-436a-b741-166e1cb06490)
 
-    ```    
+
 
 ## Note
 
