@@ -52,7 +52,8 @@ This is a simple keylogger application.
     ```
 7. Now you can see all recordings of your keyboard in new file call keylogger.txt:
     ```
-    ![Screenshot from 2024-05-01 17-57-37](https://github.com/Nipik/keylogger/assets/129624834/91b07671-2320-4f8b-9336-777cb1ba69da)
+    ![327191228-91b07671-2320-4f8b-9336-777cb1ba69da](https://github.com/Nipik/keylogger/assets/129624834/725340d1-4915-4e47-8878-978331ffcd2b)
+
 
     ```    
 
